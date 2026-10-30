@@ -4,3 +4,7 @@ pandas
 matplotlib
 seaborn
 scikit-learn
+tensorflow
+ultralytics
+pyyaml
+tqdm
